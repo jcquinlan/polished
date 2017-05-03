@@ -23,6 +23,7 @@
     "retinaImage",
     "selection",
     "timingFunctions",
+    "triangle",
     "wordWrap",
     {
       "name": "Color"
@@ -77,16 +78,17 @@
     {
       "name": "Types"
     },
-    "Ratio",
-    "RgbColor",
-    "RgbaColor",
-    "HslColor",
-    "HslaColor",
-    "FontFaceConfiguration",
-    "RadialGradientConfiguration",
-    "TimingFunction",
     "AnimationProperty",
     "ButtonState",
-    "InputState"
+    "FontFaceConfiguration",
+    "HslColor",
+    "HslaColor",
+    "InputState",
+    "PointingDirection",
+    "RadialGradientConfiguration",
+    "Ratio",
+    "RgbaColor",
+    "RgbColor",
+    "TimingFunction"
   ]
 }
